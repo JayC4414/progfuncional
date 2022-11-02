@@ -1,0 +1,26 @@
+{
+  "name": "javascript-arrays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "prettier": "prettier -w ."
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "node-fetch": "^3.2.3",
+    "prettier": "^2.6.1"
+  }
+}
