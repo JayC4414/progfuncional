@@ -32,5 +32,5 @@ const students = [
   },
 ];
 
-// Write your code here!
+
 console.log(students);
